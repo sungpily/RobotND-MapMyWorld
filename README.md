@@ -5,4 +5,13 @@ It also uses ROS move_base package to implement a robot move. Plase see this
 [screen animation](https://drive.google.com/file/d/1MWK_HzjFOM8zax4BueuzpNDKP5VAOFFZ/view?usp=sharing).
 
 ### Initial position screen shot
-![](https://drive.google.com/file/d/1kRoOe4yFdVena1Upt8rQNcZkYHJjgY0x/view?usp=sharing)
+
+<img src="https://raw.githubusercontent.com/sungpily/RobotND-WhereAmI/master/screenshot/Screenshot%20from%202019-07-31%2020-46-40.png" width="500">
+
+### Position 1 screen shot
+
+<img src="" width="500">
+
+### Position 2 screen shot
+
+<img src="" width="500">
