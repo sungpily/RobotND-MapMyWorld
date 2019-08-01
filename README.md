@@ -2,7 +2,7 @@
 
 This project uses ROS amcl (Adaptive Monte Carlo Localization) package for a robot localization problem.
 It also uses ROS move_base package to implement a robot move. Plase see this
-[screen animation](https://drive.google.com/file/d/1MWK_HzjFOM8zax4BueuzpNDKP5VAOFFZ/view?usp=sharing).
+[screen animation](https://raw.githubusercontent.com/sungpily/RobotND-WhereAmI/master/screenshot/Peek%202019-07-31%2020-50.gif).
 
 ### Initial position screen shot
 
