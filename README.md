@@ -10,8 +10,8 @@ It also uses ROS move_base package to implement a robot move. Plase see this
 
 ### Position 1 screen shot
 
-<img src="" width="500">
+<img src="https://raw.githubusercontent.com/sungpily/RobotND-WhereAmI/master/screenshot/Screenshot%20from%202019-07-31%2020-47-37.png" width="500">
 
 ### Position 2 screen shot
 
-<img src="" width="500">
+<img src="https://raw.githubusercontent.com/sungpily/RobotND-WhereAmI/master/screenshot/Screenshot%20from%202019-07-31%2020-48-54.png" width="500">
